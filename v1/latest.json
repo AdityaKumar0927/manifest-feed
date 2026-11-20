@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "sequence": 2,
+  "issued_at": "2026-11-20T16:17:36Z",
+  "manifest": "feeds/2/manifest.json",
+  "manifest_sha256": "81003a5f481eba7795e56aeab11873a2846b58658f0657ba9571bb47d662856e",
+  "key_id": "feed-2026-11"
+}
